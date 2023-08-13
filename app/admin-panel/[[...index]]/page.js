@@ -1,4 +1,5 @@
 'use client'
+
 import sanityConfig from '@/sanity/config/sanity.config'
 import {NextStudio} from 'next-sanity/studio'
 const AdminPage = () => {

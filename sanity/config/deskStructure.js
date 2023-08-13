@@ -6,19 +6,17 @@ export const myStructure = (S) =>
 
   S.list()
   
-    .title("Content")
+    .title("Content")  // Sets the title for the list
     
     .items([
      
       S.listItem()
-        .title("Settings")
+        .title("Settings") 
         .icon(CogIcon)
         .child(
           S.list()
-          
             // Sets a title for our new list
             .title("Site Settings")
-           
             // Add items to the array
             // Each will pull one of our new singletons
             .items([
