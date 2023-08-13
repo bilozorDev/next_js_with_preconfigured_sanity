@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+This is NEXT JS project with pre-configured SANITY studio
 ## Getting Started
 
 Make sure to put your project info from sanity in 2 files:
